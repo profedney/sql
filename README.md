@@ -1,1 +1,2 @@
 # sql
+Comandos básico sql
